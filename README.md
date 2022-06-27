@@ -6,7 +6,7 @@ este es un paqute de pruebas de despliegue en NPM
 
 ## Ejemplo
 ```
-import {ProducCard, ProductImage, ProductTitle, ProductButtons} from 'at-product-card';
+import {ProducCard, ProductImage, ProductTitle, ProductButtons} from 'ancizar-torres-product-card';
 ```
 
 ```
