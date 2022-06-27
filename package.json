@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "at-product-card",
+  "name": "ancizar-torres-product-card",
   "author": "Ancizar Torres",
   "module": "dist/at-product-card.esm.js",
   "size-limit": [
